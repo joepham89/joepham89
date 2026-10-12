@@ -13,7 +13,7 @@ MBA graduate and marketing operations professional with over 5 years of experien
 
 ## Tools
 
-Marketo · Claude · SQL Server / SSMS · Looker · Git
+Marketo · Claude · Looker · Git
 
 
 ## Portfolio
