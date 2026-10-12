@@ -9,7 +9,7 @@ MBA graduate and marketing operations professional with over 5 years of experien
 * Marketo for marketing automation for all things campaign
 * Salesforce as the CRM
 * Claude CoWork 
-* Regression, propensity score matching, and reproducible reporting
+* Campaign creation -> management -> automation 
 
 ## Tools
 
